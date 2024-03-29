@@ -22,5 +22,6 @@ O projeto inclui diversas tecnologias como React, npm, entre outras.
 2. Entre na pasta `frontend` e execute os seguintes comandos:
 
 $ npm install # para instalar as dependências.
+
 $ npm start # para iniciar o servidor de desenvolvimento em localhost:3000.
 
